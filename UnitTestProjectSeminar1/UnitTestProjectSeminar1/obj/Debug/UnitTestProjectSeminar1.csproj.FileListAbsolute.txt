@@ -1,0 +1,7 @@
+E:\Documents\Visual Studio 2015\Projects\CS 451 Unit Testing and Interfaces\UnitTestProjectSeminar1\UnitTestProjectSeminar1\bin\Debug\UnitTestProjectSeminar1.dll
+E:\Documents\Visual Studio 2015\Projects\CS 451 Unit Testing and Interfaces\UnitTestProjectSeminar1\UnitTestProjectSeminar1\bin\Debug\UnitTestProjectSeminar1.pdb
+E:\Documents\Visual Studio 2015\Projects\CS 451 Unit Testing and Interfaces\UnitTestProjectSeminar1\UnitTestProjectSeminar1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Documents\Visual Studio 2015\Projects\CS 451 Unit Testing and Interfaces\UnitTestProjectSeminar1\UnitTestProjectSeminar1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Documents\Visual Studio 2015\Projects\CS 451 Unit Testing and Interfaces\UnitTestProjectSeminar1\UnitTestProjectSeminar1\obj\Debug\UnitTestProjectSeminar1.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\CS 451 Unit Testing and Interfaces\UnitTestProjectSeminar1\UnitTestProjectSeminar1\obj\Debug\UnitTestProjectSeminar1.dll
+E:\Documents\Visual Studio 2015\Projects\CS 451 Unit Testing and Interfaces\UnitTestProjectSeminar1\UnitTestProjectSeminar1\obj\Debug\UnitTestProjectSeminar1.pdb

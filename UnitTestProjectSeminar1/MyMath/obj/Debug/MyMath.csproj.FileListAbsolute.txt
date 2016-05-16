@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2015\Projects\CS 451 Unit Testing and Interfaces\UnitTestProjectSeminar1\MyMath\bin\Debug\MyMath.dll
+E:\Documents\Visual Studio 2015\Projects\CS 451 Unit Testing and Interfaces\UnitTestProjectSeminar1\MyMath\bin\Debug\MyMath.pdb
+E:\Documents\Visual Studio 2015\Projects\CS 451 Unit Testing and Interfaces\UnitTestProjectSeminar1\MyMath\obj\Debug\MyMath.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\CS 451 Unit Testing and Interfaces\UnitTestProjectSeminar1\MyMath\obj\Debug\MyMath.dll
+E:\Documents\Visual Studio 2015\Projects\CS 451 Unit Testing and Interfaces\UnitTestProjectSeminar1\MyMath\obj\Debug\MyMath.pdb
